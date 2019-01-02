@@ -6,11 +6,11 @@ title: takaoyamakoshi/momochi
 # SNSリスト
 
 - [twitter](https://twitter.com/TakaoYamakoshi)
-- youtube : https://www.youtube.com/channel/UCXtWkFJG9slpDuGxSylBHBQ
-- ameblo : https://ameblo.jp/takaoyamakoshi/
-- instagram : https://www.instagram.com/mashikayakotao/
-- wear : https://wear.jp/mashikayakotao/
-- showroom : https://www.showroom-live.com/ba2ba2940172
+- [youtube](https://www.youtube.com/channel/UCXtWkFJG9slpDuGxSylBHBQ)
+- [ameblo](https://ameblo.jp/takaoyamakoshi/)
+- [instagram](https://www.instagram.com/mashikayakotao/)
+- [wear](https://wear.jp/mashikayakotao/)
+- [showroom](https://www.showroom-live.com/ba2ba2940172)
 
 # ライブ予定
 2019年01月02日更新
@@ -23,8 +23,8 @@ MIO℃HUN PROJECT 〜 雑煮でケンカしてんじゃねーよ 〜
 【出演者】 みおちゅん･夏わかめ 山越隆央･あずましふみか and more…  
 ```
 
-ソース : https://twitter.com/miochun910/status/1078071296355782656  
-会場ホームページ : http://heartmenstudio.com/  
+[ソース](https://twitter.com/miochun910/status/1078071296355782656)  
+[会場ホームページ](http://heartmenstudio.com/)  
 
 ## 2019年02月02日(土) 都内某所
 
@@ -45,28 +45,28 @@ MIO℃HUN PROJECT 〜 雑煮でケンカしてんじゃねーよ 〜
 14:15 ～ 15:00 物販タイム  
 ```
 
-ソース : https://twitter.com/m1_ch1_ko/status/1070098101954727936  
-会場ホームページ : http://promo-box.jp/  
+[ソース](https://twitter.com/m1_ch1_ko/status/1070098101954727936)  
+[会場ホームページ](http://promo-box.jp/)  
 
 # ネットにあがった動画リスト
 
 ## 2018年12月28日(金) 都内某所
 
-- https://twitter.com/eripon_350gt/status/1078643898702917635
-- https://twitter.com/0729_wata/status/1078685573131296768
+- [★](https://twitter.com/eripon_350gt/status/1078643898702917635)
+- [★](https://twitter.com/0729_wata/status/1078685573131296768)
 
 ## 2018年12月26日(水) HEART-MEN STUDIO(四ッ谷)
 
-- ラララのピピピ https://twitter.com/TOMBOPLUS/status/1078526658821349377
-- もう、子供じゃない私なのに... https://twitter.com/TOMBOPLUS/status/1079032178367901696
-- ありがとう！おともだち。 https://twitter.com/TOMBOPLUS/status/1079357799627255808
+- [ラララのピピピ](https://twitter.com/TOMBOPLUS/status/1078526658821349377)
+- [もう、子供じゃない私なのに...](https://twitter.com/TOMBOPLUS/status/1079032178367901696)
+- [ありがとう！おともだち。](https://twitter.com/TOMBOPLUS/status/1079357799627255808)
 
 ## 2018年11月28日(水) HEART-MEN STUDIO(四ッ谷)
 
-- 46億年LOVE https://twitter.com/TOMBOPLUS/status/1067932831375024128
+- [46億年LOVE](https://twitter.com/TOMBOPLUS/status/1067932831375024128)
 
 ## 2018年11月22日(木) 下北沢BASEMENTBAR
 
-- I Need You ～夜空の観覧車～ https://twitter.com/MasakiEndo/status/1065697129417461760
-- 初恋サイダー https://twitter.com/MasakiEndo/status/1065693895495839744
-- 46億年LOVE https://twitter.com/MasakiEndo/status/1065691741120999424
+- [I Need You ～夜空の観覧車～](https://twitter.com/MasakiEndo/status/1065697129417461760)
+- [初恋サイダー](https://twitter.com/MasakiEndo/status/1065693895495839744)
+- [46億年LOVE](https://twitter.com/MasakiEndo/status/1065691741120999424)
