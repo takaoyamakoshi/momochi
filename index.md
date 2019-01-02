@@ -5,7 +5,7 @@ title: takaoyamakoshi/momochi
 
 # SNSリスト
 
-- twitter : https://twitter.com/TakaoYamakoshi
+- (twitter)[https://twitter.com/TakaoYamakoshi]
 - youtube : https://www.youtube.com/channel/UCXtWkFJG9slpDuGxSylBHBQ
 - ameblo : https://ameblo.jp/takaoyamakoshi/
 - instagram : https://www.instagram.com/mashikayakotao/
