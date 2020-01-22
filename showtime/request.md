@@ -27,12 +27,12 @@
 |23 | ブギウギLOVE | [★](https://twitter.com/bu___shino/status/901769128582586368) | |
 |24 | 堀内孝雄の君の瞳は10000ボルト | [★](https://twitter.com/TakaoYamakoshi/status/901727400861483009) | |
 |25 | 24時間テレビで歌われた阿久悠さんの未発表詞につんくさんが曲をつけたやつ | [★](https://twitter.com/yemonkoimer/status/901716842707697664) | |
-|26 | 浮気なハニーパイ | [★](https://twitter.com/juice_1201/status/901712924091105281) | |
+|26 | 浮気なハニーパイ | [★](https://twitter.com/juice_1201/status/901712924091105281) [★](https://twitter.com/fuwari_kk/status/1219361167803469824)| [ダンスも見たい](https://twitter.com/fuwari_kk/status/1219361167803469824) |
 |27 | ミニモニ。ジャンケンぴょん! | [★](https://twitter.com/kenken_momochi/status/901706729494159361) | |
 |28 | 大きな愛でもてなして | [★](https://twitter.com/kenken_momochi/status/901706729494159361) | |
 |29 | 辛夷の花 | [★](https://twitter.com/tirumo_sakura/status/900316255097311233) | |
 |30 | 恋心 | [★](https://twitter.com/mitsuoterada/status/900315144600772610) | |
-|31 | Be Alive | [★](https://twitter.com/mitsuoterada/status/900315144600772610) | |
+|31 | Be Alive | [★](https://twitter.com/mitsuoterada/status/900315144600772610) [★](https://twitter.com/moecho1024/status/1219264977564917760)| |
 |32 | 許してにゃん山越バージョン | [★](https://twitter.com/eimn0530/status/900315048609894403) | |
 |33 | 初めてを経験中 | [★](https://twitter.com/tirumo_sakura/status/900314295862349824) | |
 |34 | 夏わかめ | [★](https://twitter.com/UMisuta/status/900326347389624331) | |
@@ -43,3 +43,10 @@
 |39 | 明日テンキになあれ | [★](https://twitter.com/mitsuoterada/status/973210130366971904) | |
 |40 | 道しるべ | [★](https://twitter.com/nika2yks/status/971380520041893889) | |
 |41 | 雑煮でケンカしてんじゃねーよ | [★](https://twitter.com/47the_ossan/status/950046703062695936) | |
+|42 | もしも・・・| [★](https://twitter.com/ganbarin_/status/1219291849757622272) | |
+|43 | 自転車チリリン| [★](https://twitter.com/ganbarin_/status/1219291849757622272) | |
+|44 | 彼と一緒にお店がしたい| [★](https://twitter.com/ganbarin_/status/1219291849757622272) | |
+|45 | 眼鏡の男の子| [★](https://twitter.com/jinnechan/status/1219291395019534336) | |
+|46 | 恋はマグネット| [★](https://twitter.com/soiphon/status/1219270222416248837) | |
+
+
