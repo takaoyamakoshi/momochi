@@ -19,7 +19,7 @@
 
 ## 推しメン
 
-| ももちだよぉ～♪ | ももちだよぉ～♪ |
+| ももちだよぉ～♪ | やなみんだよぉ～♪ |
 |---|---|
 | [エムラインニュース](http://www.up-fc.jp/m-line/news.php) | |
 | [ハロプロFCニュース](http://www.up-fc.jp/helloproject/news.php) | |
@@ -35,7 +35,8 @@
 | [菅谷梨沙子Instagram](https://www.instagram.com/risako_sugaya/) | |
 
 # 道具のメンテナンス
-
+| ちゃゆだよぉ～♪ | たつやだよぉ～♪ |
+|---|---|
 | モモッチ・ツグナガモモコン | |
 | ヤマコショータイム・ギター | |
 | SPEED・ギター | |
