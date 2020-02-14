@@ -24,4 +24,14 @@
 | [エムラインニュース](http://www.up-fc.jp/m-line/news.php) | |
 | [ハロプロFCニュース](http://www.up-fc.jp/helloproject/news.php) | |
 | [ハロプロニュース](http://www.helloproject.com/news/) | |
+| [Berryz工房Twitter](https://twitter.com/berryz_kobo) | |
 | [清水佐紀JPルーム](http://www.jp-r.co.jp/saki_shimizu/) | |
+| [清水佐紀Twitter](https://twitter.com/saki_shimizu_) | |
+| [嗣永桃子Twitter](https://twitter.com/jinroh_momochi) | |
+| [徳永千奈美Instagram](https://www.instagram.com/chinami.tokunaga/) | |
+| [須藤茉麻Twitter](https://twitter.com/maasa_0703) | |
+| [夏焼雅Twitter](https://twitter.com/miyaaa0825pink) | |
+| [熊井友理奈Instagram](https://www.instagram.com/kumai_yurina/) | |
+| [菅谷梨沙子Instagram](https://www.instagram.com/risako_sugaya/) | |
+
+
