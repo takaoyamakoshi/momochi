@@ -34,4 +34,11 @@
 | [熊井友理奈Instagram](https://www.instagram.com/kumai_yurina/) | |
 | [菅谷梨沙子Instagram](https://www.instagram.com/risako_sugaya/) | |
 
+# 道具のメンテナンス
 
+| モモッチ・ツグナガモモコン | |
+| ヤマコショータイム・ギター | |
+| SPEED・ギター | |
+| パソコン HDD空き | |
+| 掃除機 | |
+| 布団 | |
