@@ -35,6 +35,7 @@
 | [菅谷梨沙子Instagram](https://www.instagram.com/risako_sugaya/) | |
 
 # 道具のメンテナンス
+
 | ちゃゆだよぉ～♪ | たつやだよぉ～♪ |
 |---|---|
 | モモッチ・ツグナガモモコン | |
