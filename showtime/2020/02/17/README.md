@@ -6,8 +6,8 @@
 |---|---|
 | 起床 | [03:22](https://twitter.com/TakaoYamakoshi/status/1229108719616528385) |
 | 朝ランニング | |
-| 体重 | |
-| 今日も一日 | |
+| 体重 | [89.0kg](https://twitter.com/TakaoYamakoshi/status/1229114954000695296) |
+| 今日も一日 | [★](https://twitter.com/TakaoYamakoshi/status/1229115526804164608) |
 | インスタ自撮り | |
 | wear | |
 | 夜ランニング | |
