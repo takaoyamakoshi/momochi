@@ -4,15 +4,15 @@
 
 | お父ちゃんやでぇ～♪ | ぽんちゃんだよぉ～♪ |
 |---|---|
-| 起床 | |
-| 朝ランニング | |
-| 体重 | |
-| 今日も一日 | |
+| 起床 | [10:55](https://twitter.com/TakaoYamakoshi/status/1228860372569878528) |
+| 朝ランニング | - |
+| 体重 | [88.8kg](https://twitter.com/TakaoYamakoshi/status/1228943900372373505) |
+| 今日も一日 | [★](https://twitter.com/TakaoYamakoshi/status/1228944539643043840) |
 | インスタ自撮り | |
 | wear | |
 | 夜ランニング | |
 | 風呂 | |
-| ハロプロカード請求額 | |
+| ハロプロカード請求額 | [105,060円](https://twitter.com/TakaoYamakoshi/status/1228755925760004097) |
 | アメブロ | |
 | YouTube | |
 | 寝る | |
