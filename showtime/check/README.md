@@ -69,6 +69,8 @@
 | [船木結アメブロ(angerme)](https://ameblo.jp/angerme-ss-shin/theme-10103225326.html) | |
 | [船木結アメブロ(country)](https://ameblo.jp/countrygirls/theme-10094622018.html) | |
 | [勝田里奈Twitter](https://twitter.com/rinakatsuta_) | |
+| [勝田里奈Instagram](https://www.instagram.com/rinakatsuta/) | |
+| [勝田里奈wear](https://wear.jp/rinakatsuta/) | |
 | [森本栞菜Twitter](https://twitter.com/kanna_morimoto) | |
 | [森本栞菜Instagram](https://www.instagram.com/kanna_morimoto/) | |
 | [PINK CRES. official website](http://www.pinkcres.com/) | |
