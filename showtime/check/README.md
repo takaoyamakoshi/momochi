@@ -56,14 +56,32 @@
 | [有原栞菜Twitter](https://twitter.com/kanna93_coco) | |
 | [カントリー・ガールズInstagram](https://www.instagram.com/countrygirls_official/) | |
 | [山木梨沙Instagram](https://www.instagram.com/risa_yamaki.official/) | |
-| [稲場愛香アメブロ](https://ameblo.jp/juicejuice-official/theme-10106520232.html) | |
+| [山木梨沙アメブロ](https://ameblo.jp/countrygirls/theme-10087903791.html) | |
+| [稲場愛香アメブロ(juice)](https://ameblo.jp/juicejuice-official/theme-10106520232.html) | |
+| [稲場愛香アメブロ(country)](https://ameblo.jp/countrygirls/theme-10087903801.html) | |
 | [森戸知沙希アメブロ(morning)](https://ameblo.jp/morningm-13ki/theme-10103247869.html) | |
+| [森戸知沙希アメブロ(country)](https://ameblo.jp/countrygirls/theme-10087903805.html) | |
+| [島村嬉唄Twitter](https://twitter.com/uta_200624) | |
 | [島村嬉唄Instagram](https://www.instagram.com/uta_0624/) | |
 | [梁川奈々美アメブロ(juice)](https://ameblo.jp/juicejuice-official/theme-10103223814.html) | |
+| [梁川奈々美アメブロ(country)](https://ameblo.jp/countrygirls/theme-10094622016.html) | |
 | [小関舞アメブロ](https://ameblo.jp/countrygirls/theme-10087903830.html) | |
 | [船木結アメブロ(angerme)](https://ameblo.jp/angerme-ss-shin/theme-10103225326.html) | |
+| [船木結アメブロ(country)](https://ameblo.jp/countrygirls/theme-10094622018.html) | |
 | [勝田里奈Twitter](https://twitter.com/rinakatsuta_) | |
+| [森本栞菜Twitter](https://twitter.com/kanna_morimoto) | |
 | [森本栞菜Instagram](https://www.instagram.com/kanna_morimoto/) | |
+| [PINK CRES. official website](http://www.pinkcres.com/) | |
+| [PINK CRES. Twitter](https://twitter.com/pinkcres_staff) | |
+| [PINK CRES. Instagram](https://www.instagram.com/pinkcres_staff/) | |
+| [今月のPINK CRES.](http://www.up-fc.jp/m-line/member/pinkcres/movie.php) | |
+| [小林ひかるTwitter](https://twitter.com/hikaru_pinkcres) | |
+| [小林ひかるInstagram](https://www.instagram.com/hikaru_pinkcres0419/) | |
+| [小林ひかるwear](https://wear.jp/04hikaru19/) | |
+| [小林ひかるアメブロ](https://ameblo.jp/pinkcres/theme-10098653641.html) | |
+| [二瓶有加Twitter](https://twitter.com/niheiyu_ka1020/) | |
+| [二瓶有加Instagram](https://www.instagram.com/niheeeey.pink1020/) | |
+
 
 
 
