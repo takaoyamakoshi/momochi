@@ -43,6 +43,7 @@
 | [熊井友理奈アメブロ](https://ameblo.jp/kumai-yurina-blog/entrylist.html) | |
 | [菅谷梨沙子Instagram](https://www.instagram.com/risako_sugaya/) | |
 | [菅谷梨沙子LINEBLOG](https://lineblog.me/sugayarisako) | |
+| [菅谷梨沙子アメブロ](https://ameblo.jp/sugaya-risako-blog/entrylist.html) | |
 | [梅田えりかTwitter](https://twitter.com/umeda_erika) | |
 | [梅田えりかInstagram](https://www.instagram.com/umeeri524/) | |
 | [矢島舞美Instagram](https://www.instagram.com/maimiyajima_official_uf/) | |
