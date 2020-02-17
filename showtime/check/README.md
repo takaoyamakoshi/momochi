@@ -47,12 +47,16 @@
 | [梅田えりかTwitter](https://twitter.com/umeda_erika) | |
 | [梅田えりかInstagram](https://www.instagram.com/umeeri524/) | |
 | [矢島舞美Instagram](https://www.instagram.com/maimiyajima_official_uf/) | |
+| [村上愛Twitter](https://twitter.com/Mgm5683) | |
 | [村上愛Instagram](https://www.instagram.com/meg_5683/) | |
 | [中島早貴Twitter](https://twitter.com/saki_nakajima__)| |
 | [中島早貴Instagram](https://www.instagram.com/saki__nakajima__uf/) | |
 | [中島早貴の月1でおじゃまんぼー](https://www.up-fc.jp/m-line/member/nakajima_saki/movie.php) | |
+| [鈴木愛理Twitter](https://twitter.com/airimania) | |
 | [鈴木愛理Instagram](https://www.instagram.com/airisuzuki_official_uf/) | |
+| [岡井千聖Twitter](https://twitter.com/okai_chisato) | |
 | [岡井千聖Instagram](https://www.instagram.com/chisatookai_official_uf/) | |
+| [岡井明日菜Twitter](https://twitter.com/okai_asuna) | |
 | [萩原舞Instagram](https://www.instagram.com/mai_hagiwara_22462/) | |
 | [有原栞菜Twitter](https://twitter.com/kanna93_coco) | |
 | [カントリー・ガールズInstagram](https://www.instagram.com/countrygirls_official/) | |
