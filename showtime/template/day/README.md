@@ -89,9 +89,6 @@
 | [二瓶有加Twitter](https://twitter.com/niheiyu_ka1020/) | |
 | [二瓶有加Instagram](https://www.instagram.com/niheeeey.pink1020/) | |
 
-
-
-
 # 道具のメンテナンス
 
 | ちゃゆだよぉ～♪ | たつやだよぉ～♪ |
