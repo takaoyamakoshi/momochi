@@ -11,5 +11,29 @@
   - ニュース系を別にする(コメントやイイねできるか、頻度を考慮する)
   - YouTube など動画を観る必要があるものは別にする
   - 過去の日付の更新を取得しやすいように工夫する
-
-  
+ 
+- このサイトの構成
+  - homemaking
+    - sleep
+    - meal
+      - stock
+      - menu
+      - restaurant
+    - clearning
+  - recommendation
+    - schedule
+    - sns
+      - twitter_instagram
+      - blog
+      - youtube
+    - money
+  - showtime
+    - schedule
+      - live
+      - practice
+      - sns
+    - number
+    - maintenance
+      - body
+      - review
+      - instrument
