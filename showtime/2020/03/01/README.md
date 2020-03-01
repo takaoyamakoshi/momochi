@@ -19,7 +19,7 @@
       - stock
       - menu
       - restaurant
-    - clearning
+    - cleaning
   - recommendation
     - schedule
     - sns
