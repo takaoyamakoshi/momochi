@@ -1,0 +1,41 @@
+# サイトの構成を考える (昨日の続き)
+
+- homemaking
+  - desire
+    - sleep
+      - bed
+      - game
+      - time
+    - food
+      - stock
+      - menu
+      - restaurant
+    - sex
+  - project
+    - 2020/03/02
+  - cleaning
+- recommendation
+  - schedule
+    - media
+    - live
+    - deadline
+  - sns
+    - family
+    - kids
+    - children
+  - money
+    - bill
+    - item
+    - raise
+- showtime
+  - sns
+    - schedule
+    - practice
+    - request
+  - number
+    - berryz
+    - country
+  - maintenance
+    - body
+    - review
+    - instrument
