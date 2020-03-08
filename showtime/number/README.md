@@ -9,6 +9,7 @@
 - [小生意気ガール](./konamaiki_girl.md)
 - [書いては消しての “I Love You”](./kaiteha_keshiteno_i_love_you.md)
 - [もしも・・・](./moshimo.md)
+- [ポップミュージック](./pop_music.md)
 - [恋心](./koigokoro.md)
 - [生まれてはじめて](./umarete_hajimete.md)
 - [★](./secret.md)
