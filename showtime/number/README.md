@@ -1,0 +1,14 @@
+# ヤマコショータイム曲リスト
+
+- [青春バスガイド](./seishun_bus_guide.md)
+- [Be 元気＜成せば成るっ!＞](./be_genki_naseba_naru.md)
+- [ももち! 許してにゃん♡体操](./momochi_yurushitenyan_taisou.md)
+- [愛おしくってごめんね](./itooshikutte_gomenne.md)
+- [ランラルン〜あなたに夢中〜](./ranrarun_anatani_muchu.md)
+- [ためらい サマータイム](./tamerai_summer_time.md)
+- [小生意気ガール](./konamaiki_girl.md)
+- [書いては消しての “I Love You”](./kaiteha_keshiteno_i_love_you.md)
+- [もしも・・・](./moshimo.md)
+- [恋心](./koigokoro.md)
+- [生まれてはじめて](./umarete_hajimete.md)
+- [★](./secret.md)
