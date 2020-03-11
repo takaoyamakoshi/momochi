@@ -2,7 +2,7 @@
 
 動画撮影 ⇒ YouTube にアップ
 
-[ヤマコショータイム 2020年3月11日 やなみん卒業1周年スッペシャル！！](https://www.youtube.com/watch?v=T2Owj4QqKh4)
+[ヤマコショータイム 2020年3月11日 やなみん卒業1周年スッペシャル！！第2部](https://www.youtube.com/watch?v=T2Owj4QqKh4)
 
 # 2020年3月10日(火) 21:16 ～ 23:01
 
