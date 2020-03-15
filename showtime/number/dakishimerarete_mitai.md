@@ -1,4 +1,4 @@
-# 2020年3月15日(日) 20:00 ～ 09:20
+# 2020年3月15日(日) 20:00 ～ 21:20
 
 [YouTube に動画アップ](https://www.youtube.com/watch?v=PtJ_92vNOmg)
 
