@@ -8,7 +8,7 @@
 
 # 構成
 
-- 前奏
+- イントロ
   - Asus4 x4
   - Dm/G Em/Am Dm/E7 Am7/A7
   - Dm/G C/F B♭M7 x2
@@ -61,7 +61,7 @@
   - Am F G C
   - Dm/G C/F B♭M7 E7
   - E7 Am
-- 終奏
+- アウトロ
   - Dm/G Em/Am Dm/E7 Am7/A7
   - Dm/G C/F B♭M7 x2
   - E7 x2
