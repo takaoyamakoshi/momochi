@@ -3,7 +3,7 @@
 - [青春バスガイド](./seishun_bus_guide.md)
 - [Be 元気＜成せば成るっ!＞](./be_genki_naseba_naru.md)
 - [ももち! 許してにゃん♡体操](./momochi_yurushitenyan_taisou.md)
-- [色っぽい女~SEXY BABY~](./iroppoi_onna_sexy_baby.md)
+- [色っぽい女～SEXY BABY～](./iroppoi_onna_sexy_baby.md)
 - [愛おしくってごめんね](./itooshikutte_gomenne.md)
 - [ランラルン〜あなたに夢中〜](./ranrarun_anatani_muchu.md)
 - [ためらい サマータイム](./tamerai_summer_time.md)
