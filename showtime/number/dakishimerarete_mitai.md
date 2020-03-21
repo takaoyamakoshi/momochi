@@ -1,6 +1,6 @@
 # 抱きしめられてみたい
 
-つばきファクトリーの曲です。
+つばきファクトリーの曲。
 
 - [オリジナルYouTube](https://www.youtube.com/watch?v=wJqZLPB9Jlg)
 - [歌詞](http://j-lyric.net/artist/a05b4c9/l04f02c.html)
