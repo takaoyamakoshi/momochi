@@ -1,6 +1,6 @@
 # 抱きしめられてみたい
 
-つばきファクトリー
+つばきファクトリーの曲です。
 
 - [オリジナルYouTube](https://www.youtube.com/watch?v=wJqZLPB9Jlg)
 - [歌詞](http://j-lyric.net/artist/a05b4c9/l04f02c.html)
@@ -75,10 +75,10 @@
 
 ## 2020年3月15日(日) 20:00 ～ 21:20
 
-動画撮影 ⇒ YouTubeにアップ
+動画撮影してYouTubeにアップした。
 
 [ヤマコショータイム 2020年3月15日 むすぶたんインスタライブ観たよスッペシャル！！](https://www.youtube.com/watch?v=PtJ_92vNOmg)
 
 ## 2020年3月15日(日) 13:56 ～ 17:00
 
-構成つくる。耳コピと練習。
+構成を書いた。練習した。
