@@ -9,6 +9,5 @@
 
 ## 2020年3月22日(日) 0時19分 ～ 0時28分
 
-- オフィシャルなオリジナル動画がYouTubeにないので練習用にiTuneで購入。
-  - https://music.apple.com/jp/album/%E8%89%B2%E3%81%A3%E3%81%BD%E3%81%84%E5%A5%B3-sexy-baby/298442092?i=298442103
+- オフィシャルなオリジナル動画がYouTubeにないので練習用に[iTunesで購入](https://music.apple.com/jp/album/%E8%89%B2%E3%81%A3%E3%81%BD%E3%81%84%E5%A5%B3-sexy-baby/298442092?i=298442103)。
 - 少しだけコード調査。まぁまぁいけそう。
