@@ -11,6 +11,13 @@
 ## 構成
 
 - イントロ
+  - `| Asus4 | Asus4 | Asus4 | Asus4  |` 
+  - `| Dm G  | Em Am | Dm E7 | Am7 A7 |`
+  - `| Dm G  | C  F  | B♭M7 | B♭M7  |`
+  - `| E     | E7    |`
+
+
+- イントロ
   - | Asus4 | Asus4 | Asus4 | Asus4 | 
   - | Dm G | Em Am | Dm E7 | Am7 A7 |
   - | Dm G | C F | B♭M7 | B♭M7 |
