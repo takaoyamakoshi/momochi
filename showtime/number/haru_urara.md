@@ -1,6 +1,6 @@
 # ハルウララ
 
-こぶしファクトリー
+こぶしファクトリーの曲。
 
 - [オリジナルYouTube](https://www.youtube.com/watch?v=cRmOd0a1TAw)
 - [歌詞](http://j-lyric.net/artist/a05a651/l04b88a.html)
