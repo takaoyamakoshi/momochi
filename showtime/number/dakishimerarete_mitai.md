@@ -1,5 +1,7 @@
 # 抱きしめられてみたい (つばきファクトリー)
 
+- [オリジナルYouTube](https://www.youtube.com/watch?v=wJqZLPB9Jlg)
+- [歌詞](http://j-lyric.net/artist/a05b4c9/l04f02c.html)
 - BPM 142
 - オリジナルキーFm
 - ヤマコシキー Am
@@ -10,14 +12,14 @@
   - Asus4 x4
   - Dm/G Em/Am Dm/E7 Am7/A7
   - Dm/G C/F B♭M7 x2
-  - E7 x2
+  - E E7
 - Aメロ1-1
   - Dm/G Em/Am Dm/G C/CM7
   - F/G Em/Am Dm/D#dim7 E7
 - Aメロ1-2
   - Dm/G Em/Am Dm/G C/C7
   - F/G Em/Am Dm D#dim7
-  - E7 x2
+  - E E7
 - Bメロ1
   - Dm G Em Am
   - Dm D#dim7 E E7
@@ -37,7 +39,7 @@
 - Aメロ2-2
   - Dm/G Em/Am Dm/G C/C7
   - F/G Em/Am Dm D#dim7
-  - E7 x2
+  - E E7
 - Bメロ2
   - Dm G Em Am
   - Dm D#dim7 E E7
