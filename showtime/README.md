@@ -1,5 +1,5 @@
 # ヤマコショータイム
 
-- [NUMBER](./number/)
+- [曲](./number/)
 - [SNS](./sns/)
-- [MAINTENANCE](./maintenance/)
+- [メンテナンス](./maintenance/)
