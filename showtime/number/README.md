@@ -13,7 +13,7 @@
 - [微炭酸](./bitansan.md)
 - [ポップミュージック](./pop_music.md)
 - [ハルウララ](./haru_urara.md)
-- [抱きしめられてみたい (つばきファクトリー)](./dakishimerarete_mitai.md)
+- [抱きしめられてみたい](./dakishimerarete_mitai.md)
 - [恋心](./koigokoro.md)
 - [生まれてはじめて](./umarete_hajimete.md)
 - [★](./secret.md)
