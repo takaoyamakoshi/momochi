@@ -57,7 +57,7 @@
   - `| F | G | Em | A7 |`
   - `| Dm | D#dim7 | E | E7 | `
 - サビ3
-  - `| E7 |
+  - `| E7 |`
   - `| Am | F | G | C |`
   - `| Dm G | C F | B♭M7 | B♭M7 B#dim7 E7 | `
   - `| Am | F | G | C |`
