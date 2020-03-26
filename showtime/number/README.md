@@ -15,6 +15,7 @@
 - [ポップミュージック](./pop_music.md)
 - [ハルウララ](./haru_urara.md)
 - [抱きしめられてみたい](./dakishimerarete_mitai.md)
+- [恋愛奉行](./renai_bugyo.md)
 - [恋心](./koigokoro.md)
 - [生まれてはじめて](./umarete_hajimete.md)
 - [★](./secret.md)
