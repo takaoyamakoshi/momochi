@@ -26,7 +26,14 @@
 | [岡井明日菜](https://twitter.com/okai_asuna/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [鈴木愛理](https://twitter.com/airimania/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [有原栞菜](https://twitter.com/kanna93_coco/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [和田彩花](https://twitter.com/ayakawada/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [巫まろ](https://twitter.com/maro_kannagi/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [勝田里奈](https://twitter.com/rinakatsuta_/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [田村芽実](https://twitter.com/Tamura_Meimi/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [宮崎由加](https://twitter.com/yuka_miyazaki42/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [島村嬉唄](https://twitter.com/uta_200624/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [広瀬彩海](https://twitter.com/ayaka_hirose/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [浜浦彩乃](https://twitter.com/hamaura0426/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [森本栞菜](https://twitter.com/kanna_morimoto/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [岡本真由子](https://twitter.com/MayukoOkamoto_/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [新家利奈](https://twitter.com/Nomitun_r/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -49,9 +56,9 @@
 | [脇田璃奈](https://twitter.com/rinach_ponnel/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [雪嶋桃葉](https://twitter.com/cq_momoha_y/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [秋月香七](https://twitter.com/CQ_kana_a/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| []() | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| []() | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| []() | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [對馬桜花](https://twitter.com/tsushimaharuka/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [桜花](https://twitter.com/sakura_hana_324/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [伊藤彩華](https://twitter.com/CQ_ayaka_i/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | []() | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | []() | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 
