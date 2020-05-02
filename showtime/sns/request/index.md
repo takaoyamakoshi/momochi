@@ -48,5 +48,8 @@
 |44 | 彼と一緒にお店がしたい| [★](https://twitter.com/ganbarin_/status/1219291849757622272) | |
 |45 | 眼鏡の男の子| [★](https://twitter.com/jinnechan/status/1219291395019534336) | |
 |46 | 恋はマグネット| [★](https://twitter.com/soiphon/status/1219270222416248837) | |
+|47 | Une idole | [★](https://twitter.com/GirouetteBleue/status/1236447136327204865) | 弾き語りで |
+|48 | 雪景色 | [★](https://twitter.com/daitoro/status/1241235171182907393) | |
+|49 |ねぇミルク| [★](https://twitter.com/nozakidomo11091/status/1254437208209022978) | |
 
 
