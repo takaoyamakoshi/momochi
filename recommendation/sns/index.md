@@ -14,6 +14,7 @@
 | [カントリー・ガールズ](https://twitter.com/countrygirls_uf/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [こぶしファクトリー](https://twitter.com/kobushifac_uf/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [つばきファクトリー](https://twitter.com/tsubakifac_uf/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [PINK CRES.](https://twitter.com/pinkcres_staff/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [BEYOOOOONDS](https://twitter.com/BEYOOOOONDS_/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [カレッジ・コスモス](https://twitter.com/collegecosmos/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [清水佐紀](https://twitter.com/saki_shimizu_/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -34,6 +35,8 @@
 | [島村嬉唄](https://twitter.com/uta_200624/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [広瀬彩海](https://twitter.com/ayaka_hirose/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [浜浦彩乃](https://twitter.com/hamaura0426/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [小林ひかる](https://twitter.com/hikaru_pinkcres/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [二瓶有加](https://twitter.com/niheiyu_ka1020/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [森本栞菜](https://twitter.com/kanna_morimoto/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [岡本真由子](https://twitter.com/MayukoOkamoto_/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [新家利奈](https://twitter.com/Nomitun_r/with_replies) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
