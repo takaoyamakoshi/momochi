@@ -1,0 +1,53 @@
+# 好きって言ってよ
+
+- [オリジナルYouTube](https://www.youtube.com/watch?v=gYAFijpPSws)
+- [歌詞](http://j-lyric.net/artist/a057fe1/l04ffa9.html)
+- BPM 112
+- オリジナルキー G#m
+- ヤマコシキー Cm
+
+## 構成
+
+- イントロ
+  - `| |`
+  - `| Cm Gm | A♭ D# | Fm Gm | A♭ G7 |`
+  - `| Cm Gm | A♭ D# | Fm Gm | A♭ B♭ |`
+  - `| A♭ G7 |`
+- Aメロ1
+  - `| Cm Gm | A♭ D# | Fm Gm | A♭ G7 |`
+  - `| Cm Gm | A♭ D# | Fm Gm | A♭ G7 |`
+- Bメロ1
+  - `| D# | D#aug | D#6 | A♭m |`
+  - `| Gm | Cm | fm | A♭ G7 |`
+  - `| G7 |`
+ - サビ1
+  - `| Cm Gm | A♭ D# | Cm Gm | A♭ D# |`
+  - `| Fm G7 | Cm  B♭ A♭ | Fm G7  | Csus4 G7 |`
+  - `| Cm Gm | A♭ | B♭ | D# G7 |`
+  - `| Cm Gm | A♭ | B♭ | D# G7 |`
+- 間奏1
+  - `| Cm Gm | A♭ D# | Fm Gm | A♭ G7 |`
+  - `| Cm Gm | A♭ D# | Fm Gm | A♭ G7 |`
+- Aメロ2
+  - `| Cm Gm | A♭ D# | Fm Gm | A♭ G7 |`
+  - `| Cm Gm | A♭ D# | Fm Gm | A♭ G7 |`
+- Bメロ2
+  - `| D# | D#aug | D#6 | A♭m |`
+  - `| Gm | Cm | fm | A♭ G7 |`
+  - `| G7 |`
+- サビ2
+  - `| Cm Gm | A♭ D# | Cm Gm | A♭ D# |`
+  - `| Fm G7 | Cm  B♭ A♭ | Fm G7  | Csus4  |`
+  - `| Csus4 |`
+- 間奏2
+  - `| Cm | Cm | Fm | Fm |`
+  - `| A♭| G7 |`
+- Bメロ3
+  - `| D# | D#aug | D#6 | A♭m |`
+  - `| Gm | Cm | fm | A♭ G7 |`
+  - `| G7 |`
+- サビ3
+  - `| Cm Gm | A♭ D# | Cm Gm | A♭ D# |`
+  - `| Fm G7 | Cm  B♭ A♭ | Fm G7  | Csus4 G7 |`
+  - `| Cm Gm | A♭ | B♭ | D# G7 |`
+  - `| Cm Gm | A♭ | B♭ | D# G7 |`
