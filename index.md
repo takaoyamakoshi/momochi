@@ -1,5 +1,5 @@
 # ももちだよぉ～♪
 
-- [家事](./homemaking/)
-- [ヲタク活動](./recommendation/)
+- [ステイホーム](./homemaking/)
+- [ヲタカツ](./recommendation/)
 - [ヤマコショータイム](./showtime/)
