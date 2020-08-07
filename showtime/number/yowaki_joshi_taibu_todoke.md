@@ -11,34 +11,77 @@
 ## 構成
 
 - イントロ
-  - `| E♭| A♭|`
-  - `| A♭ E♭| Fm E♭|`
-  - `| A♭ E♭| B B♭|`
+  - `| E♭| A♭|` (ここだけ半分のはやさ)
+  - `| | |`
+  - `| A♭ | E♭ | Fm | E♭ |`
+  - `| A♭ | E♭ | B | B♭ |`
 - Aメロ1
-  - `| E♭ | G7 | Cm | E♭ |`
-  - `| A♭ | A♭m | Gm GmM7 | Gm7 Cm |`
-  - `| Fm B♭| E♭ | E♭7 |`
+  - `| E♭ | E♭ | G7 | G7 |`
+  - `| Cm | Cm | E♭ | E♭ |`
+  - `| A♭ | A♭ | A♭m | A♭m |`
+  - `| Gm | GmM7 | Gm7 | Cm |`
+  - `| Fm | B♭| E♭ | E♭ |` 
+  - `| E♭7 | E♭7 |`
 - Bメロ1
-  - `| A♭ A♭m | Gm Cm | Fm G7 | Cm Cm7 |`
-  - `| A♭ A♭m | Gm Cm | Fm Gm | A♭ | B♭ | G |`
+  - `| A♭ | A♭m | Gm | Cm |`
+  - `| Fm  | G7 | Cm | Cm7 |`
+  - `| A♭ | A♭m | Gm | Cm |`
+  - `| Fm | Gm | A♭ | A♭onB |`
+  - `| B♭ | B♭| G | G |`
 - サビ1
-  - `| C | F | G E7 | Am |`
-  - `| F G | Em Am | Dm D | G G7 |`  
-  - `| C | F | G E7 | Am Am7|`
-  - `| F G | Em Am | Dm Em | F G |`  
-  - `| C |`
+  - `| C | C | F | F |`
+  - `| G | E7 | Am | Am7 |`
+  - `| F | G | Em | Am |`
+  - `| Dm | D | G | G7 |`  
+  - `| C | C | F | F |`
+  - `| G | E7 | Am | Am7 |`
+  - `| F | G | Em | Am |`
+  - `| Dm | Em | F | G |`  
+  - `| C | C |`
 - 間奏1
-  - | A♭ B♭|`
+  - | A♭ | B♭|`
 - Aメロ2
-  - `| E♭ | G7 | Cm | E♭ |`
-  - `| A♭ | A♭m | Gm GmM7 | Gm7 Cm |`
-  - `| Fm B♭| E♭ | E♭7 |`
+  - `| E♭ | E♭ | G7 | G7 |`
+  - `| Cm | Cm | E♭ | E♭ |`
+  - `| A♭ | A♭ | A♭m | A♭m |`
+  - `| Gm | GmM7 | Gm7 | Cm |`
+  - `| Fm | B♭| E♭ | E♭ |` 
+  - `| E♭7 | E♭7 |`
 - Bメロ2
-  - `| A♭ A♭m | Gm Cm | Fm G7 | Cm Cm7 |`
-  - `| A♭ A♭m | Gm Cm | Fm Gm | A♭ | B♭ | G |`
+  - `| A♭ | A♭m | Gm | Cm |`
+  - `| Fm  | G7 | Cm | Cm7 |`
+  - `| A♭ | A♭m | Gm | Cm |`
+  - `| Fm | Gm | A♭ | A♭onB |`
+  - `| B♭ | B♭| G | G |`
 - サビ2
-  - `| C | F | G E7 | Am |`
-  - `| F G | Em Am | Dm D | G G7 |`  
-  - `| C | F | G E7 | Am Am7|`
-  - `| F G | Em Am | Dm Em | F G |`  
-  - `| C |`
+  - `| C | C | F | F |`
+  - `| G | E7 | Am | Am7 |`
+  - `| F | G | Em | Am |`
+  - `| Dm | D | G | G7 |`  
+  - `| C | C | F | F |`
+  - `| G | E7 | Am | Am7 |`
+  - `| F | G | Em | Am |`
+  - `| Dm | Em | F | G |`  
+  - `| C | C |`
+- 間奏2
+  - `| C | C B B♭ |`
+  - `| A♭ |  A♭ | Gm | Cm |`
+  - `| Fm |  G7 | Cm | Cm7 |`
+  - `| E♭| E♭ | Dm | Gm |`
+  - `| Cm | Dm | E♭M7 | E♭M7onE |`  
+  - `| F7 | F7 | F7 | F7 |`
+- 落ちサビ
+  - `| B♭ | B♭ | E♭ | E♭ |`
+  - `| F | F | B♭ | B♭ |`
+  - `| E♭ | F | Dm | Gm |`
+  - `| Cm | Cm7 | F | F |`  
+- サビ3
+  - `| G | G |`
+  - `| C | C | F | F |`
+  - `| G | E7 | Am | Am7 |`
+  - `| F | G | Em | Am |`
+  - `| Dm | Em | F | G |`
+  - `| C | C | Fm | Fm |`
+  - `| C | C | Fm | Fm |`
+  - `| C | C |`
+  
