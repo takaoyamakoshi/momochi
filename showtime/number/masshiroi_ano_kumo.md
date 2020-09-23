@@ -1,0 +1,71 @@
+# 真っ白いあの雲
+
+Berryz工房の曲。
+
+- [歌詞](https://j-lyric.net/artist/a002e87/l024880.html)
+- BPM 157
+- オリジナルキー E
+- ヤマコシキー A
+- 時間 4:48
+- [Wikipedia](https://ja.wikipedia.org/wiki/Be_%E5%85%83%E6%B0%97%EF%BC%9C%E6%88%90%E3%81%9B%E3%81%B0%E6%88%90%E3%82%8B%E3%81%A3!%EF%BC%9E)
+
+## 構成
+
+- イントロ
+  - `| A  E | F#m C#m | DM7 C#m7 Bm7 A | A |`
+  - `| A  E | F#m C#m | DM7 C#m7 Bm7 A | A |`
+- Aメロ1
+  - `| A | E | F#m | C#m  |`
+  - `| DM7 | A | B7 | E |`
+  - `| A | E | F#m | C#m  |`
+  - `| DM7 | E | A | A7 |`
+- Bメロ1
+  - `| Bm7 | E | C#m7 | F#m7 |`
+  - `| C#7 | C#7 | F#m | F#7 |`
+  - `| Bm7 | E | C#m7 | F#m7 |`
+  - `| Bm7 | B7 | E | Esus4 E |`
+  - `| D | E |`
+- サビ1
+  - `| A | D | E | C#7 |`
+  - `| F#m7 | B7 | Bm7 | E |`
+  - `| A | D | E | C#7 |`
+  - `| F#m7 | B7 | Bm7 | C#7 |`
+  - `| F#m7 | B7 | A | B7 |`
+  - `| D | E | A | A |`
+- 間奏1
+  - `| A  E | F#m C#m | DM7 C#m7 Bm7 A | A |`
+  - `| A  E | F#m C#m | DM7 C#m7 Bm7 A | A |`
+- Aメロ2
+  - `| A | E | F#m | C#m  |`
+  - `| DM7 | A | B7 | E |`
+  - `| A | E | F#m | C#m  |`
+  - `| DM7 | E | A | A7 |`
+- Bメロ2
+  - `| Bm7 | E | C#m7 | F#m7 |`
+  - `| C#7 | C#7 | F#m | F#7 |`
+  - `| Bm7 | E | C#m7 | F#m7 |`
+  - `| Bm7 | B7 | E | Esus4 E |`
+  - `| D | E |`
+- サビ2
+  - `| A | D | E | C#7 |`
+  - `| F#m7 | B7 | Bm7 | E |`
+  - `| A | D | E | C#7 |`
+  - `| F#m7 | B7 | Bm7 | C#7 |`
+  - `| F#m7 | B7 | A | B7 |`
+  - `| D | E | A | A |`
+- 間奏2
+  - `| D | D | A | A |`
+  - `| Bm7 | E | A | A7 |`
+  - `| D | D | A | A |`
+  - `| Bm7 | B7 | E | E7 |`
+- サビ3
+  - `| A | D | E | C#7 |`
+  - `| F#m7 | B7 | Bm7 | E |`
+  - `| A | D | E | C#7 |`
+  - `| F#m7 | B7 | Bm7 | C#7 |`
+  - `| F#m7 | B7 | A | B7 |`
+  - `| D | E | A | F#7 |`
+  - `| D | E | A | A |`
+- アウトロ
+  - `| A  E | F#m C#m | DM7 C#m7 Bm7 A | A |`
+  - `| A  E | F#m C#m | DM7 C#m7 Bm7 A | A |`
