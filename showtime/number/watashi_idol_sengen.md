@@ -1,0 +1,74 @@
+# 私、アイドル宣言
+
+CHiCO with HoneyWorksの曲。
+
+- [オリジナルYouTube](https://www.youtube.com/watch?v=m7ddbml_vkY)
+- [歌詞](https://j-lyric.net/artist/a05907a/l0450da.html)
+- BPM 180
+- オリジナルキー F
+- ヤマコシキー C
+- 時間 4:10
+
+## 構成
+
+- サビ1
+  - `| F G | C | F G | C |`
+  - `| F G | E7 Am | F G | C |`
+- 間奏1
+  - `| F G | C | F G | C |`
+  - `| F G | E7 Am | F G | C |`
+- Aメロ1
+  - `| C | G | Am | Em |`
+  - `| F | C | Dm | G |`
+  - `| C | G | Am | Em |`
+  - `| F | F/F# | G | G7 |`
+- Bメロ1
+  - `| F | C | Dm | C |`
+  - `| F | C | E7 | Am |`
+  - `| F | C | Dm | G |`
+- サビ2
+  - `| F G | C | F G | C |`
+  - `| F G | E7 Am | F G | C |`
+  - `| F G | C | F G | C |`
+  - `| F G | E7 Am | F G | C |`
+  - `| F G | E7 Am | F G | C |`
+- 間奏2 
+  - `| F G | C | F G | C |`
+  - `| F G | E7 Am | F G | C |`
+- Aメロ2
+  - `| C | G | Am | Em |`
+  - `| F | C | Dm | G |`
+  - `| C | G | Am | Em |`
+  - `| F | F/F# | G | G7 |`
+- Bメロ2
+  - `| F | C | Dm | C |`
+  - `| F | C | E7 | Am |`
+  - `| F | C | Dm | G |`
+- サビ3
+  - `| F G | C | F G | C |`
+  - `| F G | E7 Am | F G | C |`
+  - `| F G | C | F G | C |`
+  - `| F G | E7 Am | F G | C |`
+  - `| F G | E7 Am | F G | C |`
+- 落ちサビ
+  - `| F | C | G | Am |`
+  - `| F | C | G | Am |`
+  - `| F | C | G | Am |`
+  - `| F | C | G | Am |`
+- ギターソロ
+  - `| C | F | G | Am Em |`
+  - `| F | C | G | G7 |`
+- Bメロ3
+  - `| F | C | Dm | C |`
+  - `| F | C | E7 | Am |`
+  - `| F | C | Dm | G |`
+- サビ4
+  - `| F G | C | F G | C |`
+  - `| F G | E7 Am | F G | C |`
+  - `| F G | C | F G | C |`
+  - `| F G | E7 Am | F G | C |`
+  - `| F G | E7 Am | F G | C |`
+- アウトロ
+  - `| F G | C | F G | C |`
+  - `| F G | E7 Am | F G | C |`
+  - `| C |`
