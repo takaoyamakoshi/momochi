@@ -22,7 +22,7 @@
 - [恋愛奉行](./renai_bugyo.md)
 - [青春バスガイド](./seishun_bus_guide.md)
 - [せんこう花火](./senkou_hanabi.md)
-- [好きって言ってよ](./sukitte_itteyo.md to sukitte_itteyo.md)
+- [好きって言ってよ](./sukitte_itteyo.md)
 - [高輪ゲートウェイ駅ができる頃には](./takanawa_gateway_ekiga_dekiru_koroniha.md)
 - [ためらい サマータイム](./tamerai_summer_time.md)
 - [都営大江戸線の六本木駅で抱きしめて](./toei_ooedosen_no_roppongieki_de_dakishimete.md)
