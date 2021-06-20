@@ -13,3 +13,70 @@ Juice=Juiceの曲。
 ## 構成
 
 - イントロ
+  - `| | |` 
+  - `| Bm | G | D | A |` 
+  - `| Bm | G | F#7 | Bm |` 
+  - `| Bm |`
+  - `| Bm | G | D | A |` 
+  - `| Bm | G | A | Bm |` 
+  - `| A | A | A | Bm |`
+- Aメロ1-1
+  - `| Em | C | G | D |` 
+  - `| Em | C | G | B7 |` 
+- Aメロ1-2
+  - `| Em | C | G | D |` 
+  - `| Em | C |` 
+  - `| Am | Bm | CM7 | D7 |`
+- Bメロ1
+  - `| D#M7| Dm | Cm D7| Gm A# |`
+  - `| D#M7| Dm | Cm Dm| D#M7 |`
+  - `| D7 | B7|`
+- サビ1-1
+  - `| C | D | Bm | Em |` 
+  - `| Am | D7 | G| B7 |`
+- サビ1-2
+  - `| C | D | B7 | Em |` 
+  - `| Am | Bm | Esus4 | E |`
+- 間奏1
+  - `| Bm | G | D | A |` 
+  - `| Bm | G | A | Bm |` 
+- Aメロ2-1
+  - `| Em | C | G | D |` 
+  - `| Em | C | G | B7 |` 
+- Aメロ2-2
+  - `| Em | C | G | D |` 
+  - `| Em | C |` 
+  - `| Am | Bm | CM7 | D7 |`
+- Bメロ2
+  - `| D#M7| Dm | Cm D7| Gm A# |`
+  - `| D#M7| Dm | Cm Dm| D#M7 |`
+  - `| D7 | B7|`
+- サビ2-1
+  - `| C | D | Bm | Em |` 
+  - `| Am | D7 | G| B7 |`
+- サビ2-2
+  - `| C | D | B7 | Em |` 
+  - `| Am | Bm | Esus4 | E |`
+- 間奏2
+  - `| Em | C | G | D |`
+  - `| Am | B7 | Em | E7 |`
+  - `| F |  G | Em | Am |`
+  - `| B♭M7 | B♭M7 | Am | B7 |`
+- 大サビ
+  - `| C | D | Bm | E7 |` 
+  - `| Am Bm| CM7 | B7 |`
+  - `| B7 |`
+- 落ちサビ  
+  - `| C | D | Bm | Em |` 
+  - `| Am | D7 | G| B7 |`
+  - `| C7 |`
+- サビ3-1
+  - `| C#M7 | D#7 | Cm | Fm |` 
+  - `| B♭m | D#7 | G# | C7 |`
+- サビ3-2
+  - `| C#M7 | D#7 | C7 | Fm |` 
+  - `| B♭m | Cm | Fsus4 | F |`
+  - `| B♭m | Cm | Fsus4 | F |`
+- アウトロ
+  - `| Cm | G# | D# | B♭|` 
+  - `| Cm | G# | B♭ | Cm |` 
